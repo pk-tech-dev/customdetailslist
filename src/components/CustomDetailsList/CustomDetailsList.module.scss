@@ -1,0 +1,20 @@
+.filterableDetailsList { width: 100%; }
+.disableRowStyle { }
+.isLazyLoading { }
+
+.listHeader { display: flex; justify-content: space-between; margin-bottom: 8px; }
+.clearFiltersButton { border: none; background: transparent; cursor: pointer; display:flex; gap:6px; align-items:center; }
+
+.filterDropdown { padding: 8px; }
+.searchContainer { padding: 8px; }
+.searchTextboxDiv { display: flex; gap: 6px; align-items: center; }
+.numberSearchDiv { display: flex; gap: 6px; align-items: center; }
+
+.imputFilterValues { margin-top: 8px; gap: 6px; }
+.filterValueRow { display: flex; align-items: center; justify-content: space-between; gap:8px; }
+.filterValue { font-size: 12px; }
+.removeIcon { cursor: pointer; }
+
+.lazyLoaderSpinner { padding: 12px; }
+.filterClipContainer { display:flex; gap: 8px; flex-wrap: wrap; }
+.headerLabel { font-weight: 600; }

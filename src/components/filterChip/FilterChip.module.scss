@@ -1,0 +1,18 @@
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  border: 1px solid #e1e1e1;
+  border-radius: 999px;
+  padding: 4px 8px;
+  background: #fafafa;
+}
+.text { font-size: 12px; }
+.removeBtn {
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  padding: 2px;
+  display: inline-flex;
+  align-items: center;
+}
